@@ -68,9 +68,9 @@
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    letter-spacing: 1%;
     margin-top: 5px;
     margin-right: 25.48px;
+    text-underline-offset: 4px;
 }
 
 .cover {
